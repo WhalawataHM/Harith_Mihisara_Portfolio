@@ -1,0 +1,165 @@
+{
+    "1": {
+    "Category":"Graphic Design",
+    "Client":"Major telecommunication company",
+    "Project_date":"13-07-2025",
+    "project_technologies":"Adobe Photoshop",
+    "title": "Cyber Security Department Wall Art",
+    "desc": "A professional banner designed for a major telecommunication company's Cyber Security Operations Center. Created using Adobe Photoshop, this piece was developed as wall art to reflect the department's core function. The design features a digital, futuristic aesthetic with a prominent biometric icon, a binary code background, and a dynamic color scheme, showcasing my ability to create thematic and corporate-level graphic art.",
+    "images": ["assets/img/portfolio/1.3.png"],
+    "url": "N/A"
+  },
+
+    "2": {
+    "Category":"Photography",
+    "Client":"-",
+    "Project_date":"31-01-2025",
+    "project_technologies":"Canon 6D Mark II, Canon 70-200mm, Edited and color-graded using Adobe Lightroom and Adobe Photoshop.",
+    "title": "Cultural Photography: Drummer at the Temple of the Tooth",
+    "desc": "This photograph of a traditional drummer was captured at the Temple of the Tooth to demonstrate my skills in cultural photography and post-production. The image was taken with a Canon 6D Mark II and a 70-200mm lens, with final edits and color grading performed in Adobe Lightroom and Adobe Photoshop.",
+    "images": ["assets/img/portfolio/2021_12_BARATHIEU_MAYOTTE_8136_wqxga - Copy.png"],
+    "url": "N/A"
+  },
+
+    "3": {
+    "Category":"T-Shirt Design",
+    "Client":"2023-2025 DT batch at SLT Nebula Institute of Technologies",
+    "Project_date":"20-10-2024",
+    "project_technologies":"Adobe Photoshop",
+    "title": "University Batch T-Shirt Design",
+    "desc": "A custom t-shirt design created for my university's Digital Technologies faculty. The design features a modern and dynamic theme with bold, diagonal lines and a custom logo. This piece is a finalized design concept, showcasing my skill in creating professional and eye-catching apparel graphics using Adobe Photoshop, and is ready for production.",
+    "images": ["assets/img/portfolio/32314243.png"],
+    "url": "N/A"
+  },
+
+    "4": {
+    "Category":"Graphic Design",
+    "Client":"-",
+    "Project_date":"04-06-2025",
+    "project_technologies":"Adobe Photoshop",
+    "title": "Koenigsegg Jesko Infographic",
+    "desc": "A test design created to showcase skills in graphic design and visual storytelling. This piece combines multiple high-quality images of the Koenigsegg Jesko with a clean layout and detailed text, functioning as a modern infographic. The design demonstrates an ability to create a dynamic, multi-image composition that is both visually appealing and informative, and was created using Adobe Photoshop",
+    "images": ["assets/img/portfolio/Koenigsegg Jesko2.png"],
+    "url": "N/A"
+  },
+
+    "5": {
+    "Category":"Graphic Design",
+    "Client":"-",
+    "Project_date":"24-05-2025",
+    "project_technologies":"Adobe Photoshop",
+    "title": "Conceptual Product Mockup Design",
+    "desc": "A personal project created to showcase my graphic design and digital rendering skills. This design features a product mockup—a spray bottle—set against a clean, two-tone background with modern, flowing shapes. The use of a soft color palette and gradient lighting highlights the product, demonstrating proficiency in creating visually appealing and professional-looking promotional graphics. The entire design was created in Adobe Photoshop.",
+    "images": ["assets/img/portfolio/mockup 01.2.png"],
+    "url": "N/A"
+  },
+
+    "6": {
+    "Category":"Graphic Design",
+    "Client":"-",
+    "Project_date":"22-07-2025",
+    "project_technologies":"Adobe Photoshop",
+    "title": "Olympic Values Flyer Design",
+    "desc": "A competition piece created to showcase my graphic design and visual communication skills. This flyer was designed to represent the core Olympic values of Excellence, Friendship, and Respect. The design uses a dynamic, vibrant style that combines a central, energetic illustration with well-structured typographic sections to clearly communicate the theme. The piece demonstrates proficiency in layout, typography, and visual hierarchy, and was created using Adobe Photoshop.",
+    "images": ["assets/img/portfolio/olympics-Recovered2.png"],
+    "url": "N/A"
+  },
+
+    "7": {
+    "Category":"Graphic Design",
+    "Client":"E-sports community at SLT Nebula Institute of Technologies",
+    "Project_date":"23-05-2025",
+    "project_technologies":"Adobe Photoshop",
+    "title": "E-Sports Tournament Poster",
+    "desc": "A promotional poster created for the Nebula E-Sports Showdown 2025, an inter-university and inter-school gaming event. I used Adobe Photoshop to design this piece, focusing on a dynamic, dark, and futuristic theme to capture the intensity of competitive gaming. The design features a bold character illustration and uses a distressed, digital-style font to announce the tournament name and event details.",
+    "images": ["assets/img/portfolio/reg 6.png"],
+    "url": "N/A"
+  },
+
+    "8": {
+    "Category":"Graphic Design",
+    "Client":"E-sports community at SLT Nebula Institute of Technologies",
+    "Project_date":"23-05-2025",
+    "project_technologies":"Adobe Photoshop",
+    "title": "E-Sports Tournament Poster",
+    "desc": "A promotional poster created for the Nebula E-Sports Showdown 2025, an inter-university and inter-school gaming event. I used Adobe Photoshop to design this piece, focusing on a dynamic, dark, and futuristic theme to capture the intensity of competitive gaming. The design features a bold character illustration and uses a distressed, digital-style font to announce the tournament name and event details.",
+    "images": ["assets/img/portfolio/reg 7_2.png"],
+    "url": "N/A"
+  },
+
+    "9": {
+    "Category":"Data Visualization",
+    "Client":"HND final year project",
+    "Project_date":"31-07-2025",
+    "project_technologies":"Power BI",
+    "title": "Power BI Dashboard for Installment Management",
+    "desc": "An interactive business intelligence dashboard created to provide data-driven insights for the Banking Installment Management System. The dashboard, built using Power BI, visualizes key metrics related to installment payments, customer behavior, and merchant performance. This allows bank management to track real-time data, identify trends, and make informed decisions to optimize the installment process.",
+    "images": ["assets/img/portfolio/Screenshot 2025-07-31 123928.png"],
+    "url": "https://github.com/WhalawataHM/IMS"
+  },
+
+    "10": {
+    "Category":"System Development",
+    "Client":"HND final year project",
+    "Project_date":"31-07-2025",
+    "project_technologies":"HTML, CSS, JavaScript, Node.js, SQL",
+    "title": "Banking Installment Management Automation System",
+    "desc": "A full-stack web application designed to digitalize the manual installment payment and management process for local banks. The project features a user-friendly chatbot for clients to make payments and a comprehensive back-end system for bank staff to manage and track all installments. A Power BI dashboard provides key insights into payment data and performance.",
+    "images": ["assets/img/portfolio/Screenshot 2025-09-23 144055.png"],
+    "url": "https://github.com/WhalawataHM/IMS"
+  },
+
+    "11": {
+    "Category":"System Development",
+    "Client":"Political Party",
+    "Project_date":"15-10-2024 - ongoing",
+    "title": "Political Party Contact Management System (ongoing)",
+    "desc": "A Python-based contact management system designed for a political party to digitalize and manage voter data. As the sole developer, I created this application using Python Tkinter for the graphical user interface (GUI) and a SQL database for efficient data storage and retrieval. The system enables the party to securely organize and maintain their voter information, which is a critical function for campaign management. ",
+    "images": ["assets/img/portfolio/Screenshot 2025-09-23 150116.png"],
+    "url": "N/A"
+  },
+
+    "12": {
+    "Category":"Graphic Design",
+    "Client":"-",
+    "Project_date":"07-06-2025",
+    "project_technologies":"Adobe Photoshop",
+    "title": "Supra MK5 Infographic Design",
+    "desc": "A test infographic created to showcase my graphic design and visual communication skills. This piece highlights key features and performance statistics of the Supra MK5, combining a high-quality product image with a clean, modern layout and typography. The entire design was created in Adobe Photoshop.",
+    "images": ["assets/img/portfolio/supra MK5.png"],
+    "url": "N/A"
+  },
+
+    "13": {
+    "Category": "Graphic Design",
+    "Client":"-",
+    "Project_date":"24-05-2025",
+    "project_technologies":"Adobe Photoshop",
+    "title": "Test Flyer Design",
+    "desc": "A conceptual flyer created to showcase my graphic design and digital art skills. The project demonstrates my ability to combine a striking central visual with modern typographic and layout elements to create an eye-catching design. All visual elements were created and edited using Adobe Photoshop.",
+    "images": ["assets/img/portfolio/Untitled-1.png"],
+    "url": "N/A"
+  },
+
+    "14": {
+    "Category":"IoT Project",
+    "Client":"project for IoT module in HND",
+    "Project_date":"09-05-2025",
+    "project_technologies":"Hardware: ESP32, various sensors, actuators (water pumps, light relays), 4-pin I2C LCD,Arduino IDE, Blynk IoT Platform",
+    "title": "Automated Plant Monitoring & Control System",
+    "desc": "An Internet of Things (IoT) project for my university's IoT module, this system automates plant care using an ESP32 microcontroller. It leverages a suite of sensors to monitor key environmental data and activates actuators like water pumps and light relays to maintain optimal conditions. Users can remotely control and monitor the system via a Blynk IoT cloud interface.Successfully addressed I2C communication errors through proper wiring and pull-up resistor implementation, ESP32 flash upload errors by adjusting baud rates, and I2C address conflicts by carefully managing multiple devices on the same bus.",
+    "images": ["assets/img/portfolio/Untitled-2.jpg"],
+    "url": "N/A"
+  },
+
+    "15": {
+    "Category":"T-Shirt Design",
+    "Client":"2023-2025 DT batch at SLT Nebula Institute of Technologies",
+    "Project_date":"10-12-2024",
+    "project_technologies":"Adobe Photoshop",
+    "title": "University Batch T-Shirt Design",
+    "desc": "A custom t-shirt design created for my university batch at SLT Nebula Institute of Technologies. As the designer, I used Adobe Photoshop to develop a unique and modern graphic that was then printed and sold to my batchmates. The design successfully represents our class identity and was well-received by the group.",
+    "images": ["assets/img/portfolio/WhatsApp Image 2024-12-10 at 20.15.01_dd2830b3.png"],
+    "url": "N/A"
+  }
+}
