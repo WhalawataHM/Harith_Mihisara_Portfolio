@@ -26,11 +26,11 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-
 </head>
 
 <body>
+  <!-- ======= Preloader ======= -->
+  <div id="preloader"></div>
 
   <!-- ======= Mobile nav toggle button ======= -->
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
@@ -644,6 +644,18 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+
+  <!-- Preloader -->
+  <script>
+    window.addEventListener('load', () => {
+      const preloader = document.querySelector('#preloader');
+      if (preloader) {
+        setTimeout(() => {
+          preloader.remove();
+        }, 1000);
+      }
+    });
+  </script>
 
   <!-- Age Calculator -->
   <script>
