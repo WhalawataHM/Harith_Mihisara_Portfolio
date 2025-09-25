@@ -1,9 +1,9 @@
-# My Portfolio Website
+#My Portfolio Website
 
 A modern, responsive portfolio website built with Bootstrap, showcasing my professional experience, skills, and projects.
 Live Demo → View Portfolio[""]
 
-## Features
+##Features
 
 - Responsive design that works on all devices
 - Dynamic age calculation
@@ -13,7 +13,7 @@ Live Demo → View Portfolio[""]
 - Social media integration
 - Clean and professional UI/UX
 
-## Technologies Used
+##Technologies Used
 
 - HTML5
 - CSS3
@@ -29,7 +29,7 @@ Live Demo → View Portfolio[""]
   - GLightbox (for portfolio images)
   - BoxIcons
 
-## Structure
+##Structure
 
 ```
 ├── index.html              # Main portfolio page
@@ -44,12 +44,12 @@ Live Demo → View Portfolio[""]
 └── forms/               # PHP form handling
 ```
 
-## Credits
+##Credits
 
 - Template base: [iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/) by BootstrapMade
 - Icons: [BoxIcons](https://boxicons.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/)
 - Images: Custom portfolio work and profile images
 
-## License
+##License
 
 This project is based on the iPortfolio template by BootstrapMade. Please refer to their [license](https://bootstrapmade.com/license/) for usage terms.
